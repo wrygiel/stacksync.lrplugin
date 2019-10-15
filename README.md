@@ -35,5 +35,6 @@ other photos in the stack which this photo is in.
 2. Extract it. Once you do this, you should have a `stacksync.lrplugin` folder
    somewhere on your drive.
 
-3. Install it in Lightroom [in the regular fashion]
-   (https://www.google.com/search?q=installing+lightroom+plugins).
+3. Install it in Lightroom in [the regular fashion][installing-plugins].
+
+[installing-plugins]: https://www.google.com/search?q=installing+lightroom+plugins
